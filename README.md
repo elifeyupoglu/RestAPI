@@ -1,7 +1,7 @@
 # RestAPI
 
 ## Description
-Bu uygulamanın amacı JSON Objesinden çekilen dataların gösterimini sağlamaktır.
+> Bu uygulamanın amacı JSON Objesinden çekilen dataların gösterimini sağlamaktır.
 
 ## Technologies
 - `UINavigationController`
